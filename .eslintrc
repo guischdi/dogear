@@ -10,6 +10,10 @@
     "blockBindings": true
   },
 
+  "ecmaFeatures": {
+    "blockBindings": true
+  },
+
   "extends": "eslint:recommended",
 
   "rules": {
